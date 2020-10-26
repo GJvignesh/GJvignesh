@@ -1,6 +1,6 @@
 ### Hi there 💬
 
-I'm a data scientist. 
+I'm a ML Engineer. 
 - I’m currently working on Wipro Digital ⚡.
 
 <!--
