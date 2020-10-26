@@ -1,8 +1,11 @@
 ### Hi there 👨‍💻
 
-I'm a SoftwareEngineer :trollface:. 
-- I’m currently working on Wipro Digital  	🧑‍💼 ⚡.
-- 🧠 Machine learning, Python, Datascience 🕵️, Mulesoft ESB, Confluent-Kafka, Java, Docker, Web-applications, Flask, Linux :godmode:
+I'm a SoftwareEngineer :trollface: :octocat:.
+- I’m currently working in Wipro Digital  🧑‍💼 ⚡.
+- 🧠 Machine learning, Python, Datascience 🕵️, Mulesoft, Confluent-Kafka, Java, Docker, Web-applications, Flask, Linux :godmode:
+- Phyics nerd :electron:
+
+
 
 <!--
 Here are some ideas to get you started: -->
