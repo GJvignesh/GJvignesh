@@ -3,9 +3,10 @@
 I'm a data scientist. 
 - I’m currently working on Wipro Digital ⚡.
 
-<--
-Here are some ideas to get you started:
+<!--
+Here are some ideas to get you started: -->
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
