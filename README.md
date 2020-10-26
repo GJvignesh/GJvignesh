@@ -1,7 +1,8 @@
-### Hi there 💬
+### Hi there 👨‍💻
 
-I'm a ML Engineer. 
-- I’m currently working on Wipro Digital ⚡.
+I'm a SoftwareEngineer :trollface:. 
+- I’m currently working on Wipro Digital  	🧑‍💼 ⚡.
+- 🧠 Machine learning, Python, Datascience 🕵️, Mulesoft ESB, Confluent-Kafka, Java, Docker, Web-applications, Flask, Linux :godmode:
 
 <!--
 Here are some ideas to get you started: -->
