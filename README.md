@@ -1,8 +1,8 @@
 ### Hi there 👨‍💻
 
-I'm a SoftwareEngineer :trollface: :octocat:.
+I'm a Senior Software Engineer :trollface: :octocat:.
 - I’m currently working in Wipro Digital  🧑‍💼 ⚡.
-- 🧠 Machine learning, Python, Datascience 🕵️, Mulesoft, Confluent-Kafka, Java, Docker, Web-applications, Flask, Linux :godmode:
+- 🧠 Stack --> Machine learning, Python, Datascience 🕵️, Mulesoft, Confluent-Kafka, Core-Java, Docker, Web-applications, Flask, Object Orited Programming, Scripting, Linux :godmode:
 - Phyics nerd :electron:
 
 
