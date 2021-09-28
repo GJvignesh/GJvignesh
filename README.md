@@ -1,8 +1,8 @@
 ### Hi there 👨‍💻
 
-I'm a Senior Software Engineer :trollface: :octocat:.
-- I’m currently working in Infosys as Technology Analyst | Ex-Wipro Digital SSE  🧑‍💼 ⚡.
-- 🧠 Stack --> Machine learning, Python, Datascience 🕵️, Mulesoft, Confluent-Kafka, Core-Java, Docker, Web-applications, Flask, Object Orited Programming, Scripting, Linux, Data Engineering, Private/Public cloud basics :godmode:
+I'm a Technology Geek :trollface: :octocat:.
+- I’m currently working in Infosys as Technology Analyst | Ex-Wipro-Digital Senior Software Engineer  🧑‍💼 ⚡.
+- 🧠 Stack --> Machine learning, Python, Datascience🕵️, Mulesoft, Confluent-Kafka, Core-Java, Docker, Web-applications, Flask, Object Orited Programming, Scripting, Linux, Data Engineering, Private/Public cloud basics :godmode:
 - Phyics nerd :electron:
 
 
