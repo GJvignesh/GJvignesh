@@ -1,9 +1,9 @@
 ### Hi there 👨‍💻
 
 I'm a Technology Geek :trollface: :octocat:.
-- I’m currently working in Infosys as Technology Analyst | Ex-Wipro-Digital Senior Software Engineer  🧑‍💼 ⚡.
-- 🧠 Stack --> Machine learning, Python, Datascience🕵️, Mulesoft, Confluent-Kafka, Core-Java, Docker, Web-applications, Flask, Object Orited Programming, Scripting, Linux, Data Engineering, Private/Public cloud basics, AWS :godmode:
-- Phyics nerd :electron:
+- I’m currently working in JPMorgan as Software Engineer-2 | Ex-Infoys (DSE) | Ex-Wipro-Digital (SSE)  🧑‍💼 ⚡.
+- 🧠 Stack --> HFT, System Design, Microservices, API, Machine learning, Python, Datascience🕵️, Mulesoft, Confluent-Kafka, Core-Java, Docker, Web-applications, Flask, Object Oriented Programming, Scripting, Linux, Data Engineering, Private/Public cloud basics, AWS :godmode:
+- Physics nerd :electron:
 
 
 
