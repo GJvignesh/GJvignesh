@@ -1,7 +1,7 @@
 ### Hi there 👨‍💻
 
 I'm a Technology Geek :trollface: :octocat:.
-- I’m currently working in JPMorgan as Software Engineer-2 | Ex-Infoys (DSE) | Ex-Wipro-Digital (SSE)  🧑‍💼 ⚡.
+- I’m currently working in JPMorgan as Software Engineer-3 | Ex-Infoys (DSE) | Ex-Wipro-Digital (SSE)  🧑‍💼 ⚡.
 - 🧠 Stack --> HFT, System Design, Microservices, API, Machine learning, Python, Datascience🕵️, Mulesoft, Confluent-Kafka, Core-Java, Docker, Web-applications, Flask, Object Oriented Programming, Scripting, Linux, Data Engineering, Private/Public cloud basics, AWS :godmode:
 - Physics nerd :electron:
 
